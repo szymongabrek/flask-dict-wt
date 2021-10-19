@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "gitignore": "^0.7.0",
+    "global": "^4.4.0"
+  }
+}
